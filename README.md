@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+%F0%9F%91%8B+I'm+Fanomezana+Sarobidy;a+Student+Developer+from+Madagascar;Welcome+to+my+github!%F0%9F%98%84"/>
+    <img src="./ressource/Developer.gif" style=""/>
+</div>
 
-<!--
-**Sarobidy-23/Sarobidy-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Skills and Tools</h1>
 
-Here are some ideas to get you started:
+![My Skills](https://skillicons.dev/icons?i=react,spring,javascript,typescript,java,git,github,postgresql,html,css,bootstrap,md,vscode&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Github Stats</h1>
+ 
+<div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarobidy-23&show_icons=true&theme=dark"/>
+    <img style="margin=5px" src="https://streak-stats.demolab.com/?user=Sarobidy-23&theme=dark"/>
+</div>
